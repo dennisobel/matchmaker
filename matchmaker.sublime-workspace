@@ -1,0 +1,1059 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"their",
+				"their_answer_importance\tstatement"
+			],
+			[
+				"their_",
+				"their_answer_id"
+			],
+			[
+				"User",
+				"UserAnswer\tclass"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"Answer",
+				"AnswerTabularInline\tclass"
+			],
+			[
+				"get",
+				"get_close_matches\tfunction"
+			],
+			[
+				"object",
+				"object_list"
+			],
+			[
+				"is_",
+				"is_following_user_ids"
+			],
+			[
+				"is",
+				"is_following_user_ids\tstatement"
+			],
+			[
+				"user",
+				"user_to_toggle\tstatement"
+			],
+			[
+				"DEF",
+				"default_user_profile\tstatement"
+			],
+			[
+				"foll",
+				"followers"
+			],
+			[
+				"Re",
+				"RestaurantLocationManager\tclass"
+			],
+			[
+				"Resta",
+				"RestaurantCreateView\tclass"
+			],
+			[
+				"sl",
+				"slug"
+			],
+			[
+				"form",
+				"form_valid"
+			],
+			[
+				"Rest",
+				"RestaurantCreateView\tclass"
+			],
+			[
+				"su",
+				"super\tclass"
+			],
+			[
+				"as",
+				"as_view"
+			],
+			[
+				"Res",
+				"RestaurantCreateForm\tclass"
+			],
+			[
+				"add",
+				"addNumsGen\tfunction"
+			],
+			[
+				"all",
+				"allN\tstatement"
+			],
+			[
+				"tr",
+				"trailer_youtube_url\tstatement"
+			],
+			[
+				"toy",
+				"toy_story\tstatement"
+			],
+			[
+				"mov",
+				"movie_story_line\tparam"
+			],
+			[
+				"q",
+				"quotes"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect\tmodule"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"R",
+				"RestaurantLocation\tclass"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"rand",
+				"random_string_generator\tfunction"
+			],
+			[
+				"ascii_",
+				"ascii_lowercase\tstatement"
+			],
+			[
+				"rest",
+				"rest_id\tstatement"
+			],
+			[
+				"get_obj",
+				"get_object_or_404\tmodule"
+			],
+			[
+				"res",
+				"restaurants\tmodule"
+			],
+			[
+				"ge",
+				"get_context_data"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"to",
+				"to_email"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"Sign",
+				"SignUpForm\tclass"
+			],
+			[
+				"sh",
+				"show_affection\tfunction"
+			],
+			[
+				"Hello",
+				"HelloWorld\tclass"
+			],
+			[
+				"Test",
+				"TestCase\tclass"
+			],
+			[
+				"Ex",
+				"ExponentCalc\tfunction"
+			],
+			[
+				"prin",
+				"printArea\tfunction"
+			],
+			[
+				"sha",
+				"Shape\tclass"
+			],
+			[
+				"sq",
+				"sq2\tstatement"
+			],
+			[
+				"ca",
+				"calcDiameter\tfunction"
+			],
+			[
+				"cir",
+				"circumference"
+			],
+			[
+				"rem",
+				"remKey\tstatement"
+			],
+			[
+				"raw",
+				"raw_add\tstatement"
+			],
+			[
+				"raw_",
+				"raw_input\tfunction"
+			],
+			[
+				"div",
+				"divAge\tstatement"
+			],
+			[
+				"mult",
+				"multAge\tstatement"
+			],
+			[
+				"gu",
+				"guess\tstatement"
+			],
+			[
+				"gue",
+				"guesses_made\tstatement"
+			],
+			[
+				"f",
+				"format\tfunction"
+			],
+			[
+				"Alert",
+				"AlertController\talias"
+			],
+			[
+				"on",
+				"onClose\tmethod"
+			],
+			[
+				"upd",
+				"updateUsernames"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"up",
+				"updateUsernames"
+			],
+			[
+				"message",
+				"messageForm"
+			],
+			[
+				"d",
+				"datato\tparameter"
+			],
+			[
+				"data",
+				"dataTo\tlocal var"
+			],
+			[
+				"pr",
+				"prompt\tparam"
+			],
+			[
+				"co",
+				"console\tvar"
+			],
+			[
+				"l",
+				"lastIndexOf\tmethod"
+			],
+			[
+				"se",
+				"setAttribute\tmethod"
+			],
+			[
+				"st",
+				"stationname\tlocal var"
+			],
+			[
+				"fi",
+				"findIndex\tmethod"
+			],
+			[
+				"re",
+				"removeFromMissingList\tmethod"
+			],
+			[
+				"n",
+				"newcases\tproperty"
+			],
+			[
+				"miss",
+				"missings\tproperty"
+			],
+			[
+				"vi",
+				"victimEl\tparameter"
+			],
+			[
+				"find",
+				"findIndex\tmethod"
+			],
+			[
+				"inn",
+				"innerHTML\tproperty"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"new",
+				"newCase\tconst"
+			],
+			[
+				"onlo",
+				"onloadend\tproperty"
+			],
+			[
+				"onl",
+				"onloadend\tproperty"
+			],
+			[
+				"file",
+				"fileToLoad\tlocal var"
+			],
+			[
+				"read",
+				"readAsDataURL\tmethod"
+			],
+			[
+				"File",
+				"FileReader\tinterface"
+			],
+			[
+				"resp",
+				"responseType\tproperty"
+			],
+			[
+				"Access-",
+				"Access-Control-Allow-Origin"
+			],
+			[
+				"set",
+				"setHeader"
+			],
+			[
+				"cor",
+				"correctmobile\tproperty"
+			],
+			[
+				"c",
+				"careofs\tproperty"
+			],
+			[
+				"i",
+				"innerHTML\tproperty"
+			],
+			[
+				"com",
+				"comparemobi\tproperty"
+			],
+			[
+				"p",
+				"push\tmethod"
+			],
+			[
+				"care",
+				"careofs\tproperty"
+			],
+			[
+				"a",
+				"apiProvider\tproperty"
+			],
+			[
+				"comp",
+				"comparemobi\tproperty"
+			],
+			[
+				"in",
+				"indexOf\tmethod"
+			],
+			[
+				"compare",
+				"comparepass\tproperty"
+			],
+			[
+				"corr",
+				"correctpassword\tproperty"
+			],
+			[
+				"fil",
+				"filter\tmethod"
+			],
+			[
+				"mi",
+				"missings\tproperty"
+			],
+			[
+				"las",
+				"lastname\tproperty"
+			],
+			[
+				"kn",
+				"knownname\tproperty"
+			],
+			[
+				"name",
+				"namemissing\tproperty"
+			],
+			[
+				"fo",
+				"foundmissing\tproperty"
+			],
+			[
+				"s",
+				"subscribe\tmethod"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"On",
+				"OnInit\talias"
+			],
+			[
+				"g",
+				"getCosedMissing\tmethod"
+			],
+			[
+				"closed",
+				"ClosedMissing\talias"
+			],
+			[
+				"dele",
+				"deletedcase\tparameter"
+			],
+			[
+				"case",
+				"caseagentInfo\tproperty"
+			],
+			[
+				"P",
+				"push\tmethod"
+			],
+			[
+				"m",
+				"mobile\tproperty"
+			],
+			[
+				"mongo",
+				"mongodb"
+			],
+			[
+				"mong",
+				"mongoose"
+			],
+			[
+				"con",
+				"contactService\tproperty"
+			],
+			[
+				"Cont",
+				"ContactService\talias"
+			],
+			[
+				"Co",
+				"ContactSchema"
+			],
+			[
+				"r",
+				"required"
+			],
+			[
+				"sta",
+				"stationname"
+			],
+			[
+				"toBe",
+				"toBeGreaterThan\tmethod"
+			],
+			[
+				"na",
+				"nativeElement\tproperty"
+			],
+			[
+				"de",
+				"debugElement\tproperty"
+			],
+			[
+				"debug",
+				"debugElement\tlet"
+			],
+			[
+				"HTML",
+				"HTMLElement\tinterface"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/questions/views.py",
+			"settings":
+			{
+				"buffer_size": 2566,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/questions/single.html",
+			"settings":
+			{
+				"buffer_size": 815,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/questions/forms.py",
+			"settings":
+			{
+				"buffer_size": 1139,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/questions/models.py",
+			"settings":
+			{
+				"buffer_size": 1449,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Ana",
+		"selected_items":
+		[
+			[
+				"Ana",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"Term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dennis/Documents/Python/djangotut/matchmaker2",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/matchmaker",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/matchmaker/settings",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/newsletter",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/questions",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/templates",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/templates/questions"
+	],
+	"file_history":
+	[
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/questions/migrations/0005_useranswer.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/db.sqlite3",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/matchmaker/urls.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/questions/forms.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/questions/admin.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/templates/questions/single.html",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/questions/models.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/templates/questions/home.html",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/newsletter/views.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/matchmaker/settings/local.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/matchmaker/wsgi.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/manage.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/matchmaker/settings/production.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/matchmaker/settings/base.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/matchmaker/old_settings.py",
+		"/home/dennis/Documents/Python/djangotut/matchmaker2/src/.gitignore",
+		"/home/dennis/Documents/Python/djangotut/digital-marketplace/.gitignore",
+		"/home/dennis/Documents/Python/Python Mega Course/flaskwebsite/templates/about.html",
+		"/home/dennis/Documents/Python/Python Mega Course/flaskwebsite/static/main.css",
+		"/home/dennis/.config/sublime-text-3/Packages/TerminalView/README.md",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/templates/menus/home-feed.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/muypicky/urls.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/profiles/models.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/profiles/views.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/profiles/admin.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/profiles/urls.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/profiles/shell_commands.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/admin.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/forms.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/models.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/urls.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/lib/python3.5/collections/__init__.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/profiles/templates/profiles/snippet/follow_form.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/profiles/templates/profiles/user.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/models.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/muypicky/settings/base.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/views.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/templates/menus/detail-update.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/templates/restaurants/detail-update.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/form.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/snippets/form-snippet.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/forms.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/urls.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/views.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/snippets/nav.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/templates/restaurants/restaurantlocation_list.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/templates/menus/item_list.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/templates/menus/item_detail.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/templates/restaurants/form.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/menus/templates/menu/item_list.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/registration/login.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/validators.py",
+		"/home/dennis/Documents/Python/lessons/inheritance.py",
+		"/home/dennis/Documents/Python/lessons/media.py",
+		"/home/dennis/Documents/Python/lessons/check_profanity.py",
+		"/home/dennis/Documents/Python/lessons/movie_quotes.txt",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/utils.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/templates/restaurants/restaurantlocation_detail.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/restaurants/admin.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/about.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/contact.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/base.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/snippets/js.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/home.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/snippets/sidebar.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/snippets/css.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/templates/home2.html",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/muypicky/settings/__init__.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/muypicky/settings/local.py",
+		"/home/dennis/Desktop/desktopstuff/apps/pythonprojects/muypicky/src/muypicky/settings/production.py",
+		"/home/dennis/Desktop/trydjango18/src/templates/home.html",
+		"/home/dennis/Desktop/trydjango18/src/templates/base.html",
+		"/home/dennis/Desktop/trydjango18/src/templates/forms.html",
+		"/home/dennis/Desktop/trydjango18/src/newsletter/views.py",
+		"/home/dennis/Desktop/trydjango18/src/static_in_pro/our_static/css/bootstrap.min.css",
+		"/home/dennis/Desktop/trydjango18/src/templates/about.html",
+		"/home/dennis/Desktop/trydjango18/src/trydjango18/settings.py",
+		"/home/dennis/Desktop/trydjango18/src/trydjango18/views.py",
+		"/home/dennis/Desktop/trydjango18/src/trydjango18/urls.py",
+		"/home/dennis/Desktop/trydjango18/src/templates/navbar.html",
+		"/home/dennis/Desktop/trydjango18/src/templates/head_css.html",
+		"/home/dennis/Desktop/trydjango18/static_in_env/static_root/css/navbar-top.css",
+		"/home/dennis/Desktop/trydjango18/static_in_env/static_root/css/custom.css",
+		"/home/dennis/Desktop/trydjango18/src/templates/javascript.html",
+		"/home/dennis/Desktop/trydjango18/src/templates/example_fluid.html",
+		"/home/dennis/Desktop/trydjango18/src/newsletter/forms.py",
+		"/home/dennis/Desktop/trydjango18/src/static_in_pro/our_static/img/example.txt",
+		"/home/dennis/Desktop/trydjango18/src/newsletter/models.py",
+		"/home/dennis/Desktop/trydjango18/src/newsletter/admin.py",
+		"/home/dennis/Desktop/trydjango18/src/newsletter/templates/home.html",
+		"/home/dennis/Documents/Python/lessons/oopencapsulation.py",
+		"/home/dennis/Documents/Python/lessons/cherry1.py",
+		"/home/dennis/Documents/Python/lessons/unittest1.py",
+		"/home/dennis/Documents/Python/lessons/oop1.py",
+		"/home/dennis/Documents/Python/lessons/oop2.py",
+		"/home/dennis/Documents/Python/lessons/oopdef.py",
+		"/home/dennis/Documents/Python/lessons/oopinherit.py",
+		"/home/dennis/Documents/Python/lessons/index.html",
+		"/home/dennis/Documents/Python/lessons/Error.py",
+		"/home/dennis/Documents/Python/lessons/def1module.py",
+		"/home/dennis/Documents/Python/lessons/Dictionary2.py",
+		"/home/dennis/Documents/Python/lessons/def1.py",
+		"/home/dennis/Documents/Python/lessons/Dictionary1.py",
+		"/home/dennis/Documents/Python/lessons/list.py",
+		"/home/dennis/Documents/Python/lessons/list2.py",
+		"/home/dennis/Documents/Python/lessons/list3.py",
+		"/home/dennis/Documents/Python/lessons/namesrange.py",
+		"/home/dennis/Documents/Python/lessons/numbers.py",
+		"/home/dennis/Documents/Python/lessons/range2.py",
+		"/home/dennis/Documents/Python/lessons/forl2.py",
+		"/home/dennis/Documents/Python/lessons/ifThenElse.py",
+		"/home/dennis/Documents/Python/lessons/IO4.py",
+		"/home/dennis/Documents/Python/lessons/IO3.py",
+		"/home/dennis/Documents/Python/lessons/IO2.py",
+		"/home/dennis/Documents/Python/lessons/IO1.py",
+		"/home/dennis/Documents/Python/lessons/datatypes.py",
+		"/home/dennis/Documents/Python/lessons/HelloWorld.py",
+		"/home/dennis/Documents/Python/lessons/sample.py",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCaseAgent/src/pages/home/home.ts",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCaseAgent/src/pages/report/report.ts",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCaseAgent/src/app/app.module.ts",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCaseAgent/src/pages/tabs/tabs.ts",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCaseAgent/src/pages/missing-profile/missing-profile.ts",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCaseAgent/src/pages/missing-profile/missing-profile.html",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCaseAgent/src/pages/found-profile/found-profile.html",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCaseAgent/src/providers/api/api.ts",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCaseAgent/src/pages/found-profile/found-profile.ts",
+		"/home/dennis/Desktop/desktopstuff/apps/node/missingpersons/UserUIs/findCareOf/src/providers/api/api.ts"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			"/home/dennis/Documents/Python/djangotut/matchmaker2/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"their_importance",
+			"their_answer_importance",
+			"trydjango18",
+			"trydjango18.settings"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"their_answer_importance",
+			"their_importance",
+			"matchmaker"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/questions/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								939,
+								939
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 22.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/questions/single.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/questions/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								733
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/questions/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								932,
+								932
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "matchmaker.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
